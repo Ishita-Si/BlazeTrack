@@ -1,4 +1,4 @@
-<h1>BlazeTrack</h1>
+<h1>BlazeTrack(Ongoing)</h1>
 
 <h3>Forest Fire Detection System for Uttarakhand</h3>
 
