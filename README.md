@@ -6,8 +6,8 @@ BlazeTrack is an AI-powered forest fire detection and alert system specifically 
 
 The project focuses on:
 
--Early fire detection using image classification and object detection models.
--Real-time alerting through integrated messaging systems.
--Scalability for deployment across various forest regions.
--Low-cost implementation using open-source tools and minimal infrastructure.
+-Early fire detection using image classification and object detection models.</br>
+-Real-time alerting through integrated messaging systems.</br>
+-Scalability for deployment across various forest regions.</br>
+-Low-cost implementation using open-source tools and minimal infrastructure.</br>
 -WildGuard aims to empower forest departments and disaster management teams with a smart, proactive tool to mitigate wildfire risks and preserve biodiversity.
