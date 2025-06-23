@@ -1,4 +1,4 @@
-## BlazeTrack : Forest Fire Detection System
+ ## BlazeTrack : Forest Fire Detection System
 
 Detecting fire vs. non-fire from images using deep learning
 *Built with TensorFlow, Streamlit & Kaggle datasets*
@@ -19,7 +19,7 @@ Dataset used: [phylake1337/fire-dataset](https://www.kaggle.com/datasets/phylake
   * `fire_images/`: Images with visible fire.
   * `non-fire_images/`: Images without fire.
 * Total: \~1,000 images (approx. 755 fire, 250 non-fire)
-will continue to update with better datasets
+</br> will continue to update with better datasets
 
 ---
 
