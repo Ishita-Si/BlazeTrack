@@ -4,7 +4,7 @@ Detecting fire vs. non-fire from images using deep learning
 *Built with TensorFlow, Streamlit & Kaggle datasets*
 
 ![Model](https://img.shields.io/badge/Model-CNN%20%7C%20MobileNetV2-blue)
-![Accuracy](https://img.shields.io/badge/Accuracy-Up%20to%2092%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-Up%20to%2095%25-brightgreen)
 ![Dataset](https://img.shields.io/badge/Data-Kaggle%3A%20phylake1337%2Ffire--dataset-orange)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
 
